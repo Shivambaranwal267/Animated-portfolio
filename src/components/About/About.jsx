@@ -41,9 +41,9 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="mt-8 mb-10 text-base leading-relaxed text-gray-400 sm:text-lg md:text-lg">
-            I am a full-stack developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
+            I am a full-stack developer with over 1 years of experience in
+            building scalable web applications and mobile applications. Skilled in both front-end and
+            back-end development, I specialize in the both frontend and backend development and other
             modern technologies to create seamless user experiences and
             efficient solutions.
           </p>
